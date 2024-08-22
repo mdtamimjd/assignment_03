@@ -1,0 +1,14 @@
+/* font add google font manrope*/
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+.manrope{
+    font-family: "Manrope", sans-serif;
+}
+/* color */
+/* rgb(28, 28, 28) = #1c1c1c */
+/* rgb(171, 239, 95) = #abef5f  */
+/* rgb(115, 115, 115) = #737373 */
+/* rgb(33, 33, 33) = #212121 */
+/* rgb(171, 239, 95) = #abef5f */
+/* rgb(73, 73, 73) = #494949 */
+/* rgba(171, 239, 95, 0.5) = #abef5f80 */
